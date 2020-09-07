@@ -1,0 +1,4 @@
+#Tue Sep 10 06:47:51 EDT 2019
+base.0=C\:\\Users\\Nigel\\Documents\\GitHub\\lighton\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
